@@ -18,7 +18,7 @@ MemorialPath.github.io
 
 ## Laboratuvara ait bazı istatistikler
 
--   Bu istatistikler en son 24-08-2021 tarihinde güncellenmiştir.
+-   Bu istatistikler en son 25-08-2021 tarihinde güncellenmiştir.
 
 -   14-12-2020 ile 21-08-2021 tarihleri arasında:
 

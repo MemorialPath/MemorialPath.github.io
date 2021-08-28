@@ -1,7 +1,7 @@
 Memorial Patoloji Laboratuvarı
 ================
 
-# MemorialPath.github.io
+# [MemorialPath.github.io](https://memorialpath.github.io/)
 
 ------------------------------------------------------------------------
 
@@ -18,11 +18,11 @@ Memorial Patoloji Laboratuvarı
 
 ## Laboratuvara ait bazı istatistikler
 
--   Bu istatistikler en son 27-08-2021 tarihinde güncellenmiştir.
+-   Bu istatistikler en son 28-08-2021 tarihinde güncellenmiştir.
 
 -   14-12-2020 ile 27-08-2021 tarihleri arasında:
 
-    -   Toplam 32880 vaka raporlanmıştır.
+    -   Toplam 33110 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -87,6 +87,13 @@ Memorial Patoloji Laboratuvarı
 ### Patoloji nedir?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kypw67buJ6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+<br>
+
+### Adım Adım Memorial Patoloji
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HYTqkBAHp_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 <br>

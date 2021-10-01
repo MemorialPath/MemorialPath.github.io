@@ -1,54 +1,55 @@
-# Memorial Patoloji Laboratuvarı
+Memorial Patoloji Laboratuvarı
+================
 
 # [MemorialPath.github.io](https://memorialpath.github.io/)
 
----
+------------------------------------------------------------------------
 
 ## Memorial Patoloji Laboratuvarı
 
-- [Ana Sayfa](https://patoloji.memorial.com.tr/)
+-   [Ana Sayfa](https://patoloji.memorial.com.tr/)
 
-- [Hastane
-  Sayfası](https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi)
+-   [Hastane
+    Sayfası](https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi)
 
-- [Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
+-   [Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
----
+------------------------------------------------------------------------
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 29-09-2021 tarihinde güncellenmiştir.
+-   Bu istatistikler en son 01-10-2021 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 23-09-2021 tarihleri arasında:
+-   14-12-2020 ile 30-09-2021 tarihleri arasında:
 
-  - Toplam 37136 vaka raporlanmıştır.
+    -   Toplam 38239 vaka raporlanmıştır.
 
----
+------------------------------------------------------------------------
 
 ## Dijital Patoloji
 
-- <https://patoloji.memorial.com.tr/Home/DijitalPatoloji>
+-   <https://patoloji.memorial.com.tr/Home/DijitalPatoloji>
 
-- Laboratuvar altyapısında dijital patoloji için Sectra ve Aperio
-  kullanılmaktadır.
+-   Laboratuvar altyapısında dijital patoloji için Sectra ve Aperio
+    kullanılmaktadır.
 
----
+------------------------------------------------------------------------
 
 ## Projeler
 
----
+------------------------------------------------------------------------
 
 ### R/Medicine 2021
 
 [![](./projects/RMedicine2021/images/Generating%20reports%20with%20R%20for%20anatomic%20pathology%20laboratory%20quality%20control.png)](./projects/RMedicine2021/Generating%20reports%20with%20R%20for%20anatomic%20pathology%20laboratory%20quality%20control.pdf)
 
----
+------------------------------------------------------------------------
 
 ## Toplantılar
 
 <br>
 
----
+------------------------------------------------------------------------
 
 ### Tanışma Toplantısı 25 Ağustos 2021 17:30-20:00
 
@@ -59,25 +60,25 @@
 
 <br>
 
----
+------------------------------------------------------------------------
 
 ### Memorial Klinikopatoloji Toplantıları: Beyin Tümörlerinde 2021 DSÖ Sınıflaması 28 Aralık 2020 / 17.00 - 18.00
 
-- Moderatör  
-  Prof. Dr. İlknur Türkmen
-- Günümüze kadar olan DSÖ beyin tümörleri sınıflamasına genel bakış  
-  Prof. Dr. Türkan Atasever Rezanko, Memorial Sağlık Grubu Patoloji
-  Bölümü
-- 2021 DSÖ sınıflamasında bizi neler bekliyor?  
-  Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco,
-  Patoloji Bölümü, Nöropatoloji Ünitesi
+-   Moderatör  
+    Prof. Dr. İlknur Türkmen
+-   Günümüze kadar olan DSÖ beyin tümörleri sınıflamasına genel bakış  
+    Prof. Dr. Türkan Atasever Rezanko, Memorial Sağlık Grubu Patoloji
+    Bölümü
+-   2021 DSÖ sınıflamasında bizi neler bekliyor?  
+    Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco,
+    Patoloji Bölümü, Nöropatoloji Ünitesi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gQEgGhWjJ_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 <br>
 
----
+------------------------------------------------------------------------
 
 ## Memorial Patoloji Bilgilendirme Videoları
 

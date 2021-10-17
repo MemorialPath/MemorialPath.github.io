@@ -18,7 +18,7 @@ Memorial Patoloji Laboratuvarı
 
 ## Laboratuvara ait bazı istatistikler
 
--   Bu istatistikler en son 16-10-2021 tarihinde güncellenmiştir.
+-   Bu istatistikler en son 17-10-2021 tarihinde güncellenmiştir.
 
 -   14-12-2020 ile 15-10-2021 tarihleri arasında:
 

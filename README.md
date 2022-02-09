@@ -18,7 +18,7 @@ Memorial Patoloji Laboratuvarı
 
 ## Laboratuvara ait bazı istatistikler
 
--   Bu istatistikler en son 05-02-2022 tarihinde güncellenmiştir.
+-   Bu istatistikler en son 09-02-2022 tarihinde güncellenmiştir.
 
 -   14-12-2020 ile 04-02-2022 tarihleri arasında:
 
@@ -38,15 +38,23 @@ Memorial Patoloji Laboratuvarı
 
 ---
 
+### Patoloji Atlası
+
+**Pathology Atlas and Notes for Medical Students: See and Learn**
+
+- [https://lab.patolojinotlari.com/](https://lab.patolojinotlari.com/)
+
+- [https://pathologyatlas.github.io/](https://pathologyatlas.github.io/)
+
+
+
+---
+
+
 ### R/Medicine 2021
 
 
 [![](./projects/RMedicine2021/images/Generating reports with R for anatomic pathology laboratory quality control.png)](./projects/RMedicine2021/Generating reports with R for anatomic pathology laboratory quality control.pdf)
-
-
-
-
-
 
 ---
 ## Toplantılar

@@ -14,15 +14,17 @@ Memorial Patoloji Laboratuvarı
 
 -   [Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
+![](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
+
 ------------------------------------------------------------------------
 
 ## Laboratuvara ait bazı istatistikler
 
--   Bu istatistikler en son 16-02-2022 tarihinde güncellenmiştir.
+-   Bu istatistikler en son 23-02-2022 tarihinde güncellenmiştir.
 
--   14-12-2020 ile 16-02-2022 tarihleri arasında:
+-   14-12-2020 ile 22-02-2022 tarihleri arasında:
 
-    -   Toplam 62675 vaka raporlanmıştır.
+    -   Toplam 63907 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 ## Dijital Patoloji

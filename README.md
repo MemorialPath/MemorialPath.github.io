@@ -14,7 +14,7 @@ Memorial Patoloji Laboratuvarı
 
 -   [Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
-![](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
+[![](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
 
 ------------------------------------------------------------------------
 

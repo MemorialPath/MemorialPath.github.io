@@ -20,11 +20,11 @@ Memorial Patoloji Laboratuvarı
 
 ## Laboratuvara ait bazı istatistikler
 
--   Bu istatistikler en son 01-03-2022 tarihinde güncellenmiştir.
+-   Bu istatistikler en son 05-03-2022 tarihinde güncellenmiştir.
 
--   14-12-2020 ile 01-03-2022 tarihleri arasında:
+-   14-12-2020 ile 04-03-2022 tarihleri arasında:
 
-    -   Toplam 65010 vaka raporlanmıştır.
+    -   Toplam 65885 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 ## Dijital Patoloji

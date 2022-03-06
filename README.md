@@ -44,6 +44,8 @@ Memorial Patoloji Laboratuvarı
 
 **Pathology Atlas and Notes for Medical Students: See and Learn**
 
+- [https://www.patolojiatlasi.com/](https://www.patolojiatlasi.com/)
+
 - [https://lab.patolojinotlari.com/](https://lab.patolojinotlari.com/)
 
 - [https://pathologyatlas.github.io/](https://pathologyatlas.github.io/)

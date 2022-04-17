@@ -8,13 +8,13 @@
 
 - [https://www.patolojiatlasi.com/](https://www.patolojiatlasi.com/)
 
-- [https://lab.patolojinotlari.com/](https://lab.patolojinotlari.com/)
+- [https://www.patolojiatlasi.com/EN/](https://www.patolojiatlasi.com/EN/)
 
-- [https://pathologyatlas.github.io/](https://pathologyatlas.github.io/)
-
+- [https://www.patolojinotlari.com/](https://www.patolojinotlari.com/)
 
 
 ---
+
 
 ### R/Medicine 2021 Generating reports with R for anatomic pathology laboratory quality control
 
@@ -28,6 +28,7 @@
 
 
 ---
+
 
 ### ECDP2022 Validation Study
 

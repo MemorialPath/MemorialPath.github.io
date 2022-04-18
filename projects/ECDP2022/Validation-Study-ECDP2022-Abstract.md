@@ -1,3 +1,5 @@
+Implemantation of Digital Pathology Workflow for Routine Primary Diagnosis in a Large Private Hospital Network
+
 **Introduction**
 - Our pathology laboratory serves a private hospital network of 11 hospitals in 5 cities. Biopsies were scanned with two Leica Aperio T2 scanners and shared via the Sectra system. 6977 biopsies were scanned and archived during a-ten-month period and used in consultation, second opinion, and meetings. To start using the system as a primary diagnostic tool, a validation study is initiated. 
 

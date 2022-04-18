@@ -34,6 +34,7 @@
 
 [ECDP2022](https://www.ecdp2022.org/)
 
+Implemantation of Digital Pathology Workflow for Routine Primary Diagnosis in a Large Private Hospital Network
 
 [Abstract](./projects/ECDP2022/Validation-Study-ECDP2022-Abstract.md)
 

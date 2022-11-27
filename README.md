@@ -14,20 +14,22 @@ Memorial Patoloji Laboratuvarı
 
 -   [Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
+[![](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
+
 ------------------------------------------------------------------------
 
 ## Laboratuvara ait bazı istatistikler
 
--   Bu istatistikler en son 09-02-2022 tarihinde güncellenmiştir.
+-   Bu istatistikler en son 05-05-2022 tarihinde güncellenmiştir.
 
--   14-12-2020 ile 04-02-2022 tarihleri arasında:
+-   14-12-2020 ile 29-04-2022 tarihleri arasında:
 
-    -   Toplam 60712 vaka raporlanmıştır.
+    -   Toplam 76697 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 ## Dijital Patoloji
 
-- https://patoloji.memorial.com.tr/Home/DijitalPatoloji
+- [https://patoloji.memorial.com.tr/Home/DijitalPatoloji](https://patoloji.memorial.com.tr/Home/DijitalPatoloji)
 
 - Laboratuvar altyapısında dijital patoloji için Sectra ve Aperio kullanılmaktadır.
 
@@ -42,21 +44,42 @@ Memorial Patoloji Laboratuvarı
 
 **Pathology Atlas and Notes for Medical Students: See and Learn**
 
-- [https://lab.patolojinotlari.com/](https://lab.patolojinotlari.com/)
+- [https://www.patolojiatlasi.com/](https://www.patolojiatlasi.com/)
 
-- [https://pathologyatlas.github.io/](https://pathologyatlas.github.io/)
+- [https://www.patolojiatlasi.com/EN/](https://www.patolojiatlasi.com/EN/)
 
+- [https://www.patolojinotlari.com/](https://www.patolojinotlari.com/)
 
 
 ---
 
 
-### R/Medicine 2021
+### R/Medicine 2021 Generating reports with R for anatomic pathology laboratory quality control
 
+[R/Medicine 2021](https://r-medicine-2021.netlify.app/)
+
+[Abstract](./projects/RMedicine2021/Generating%20reports%20with%20R%20for%20anatomic%20pathology%20laboratory%20quality%20control.nb.html)
+
+[Poster](https://spatial.chat/s/R-Medicine2021?room=231309)
 
 [![](./projects/RMedicine2021/images/Generating reports with R for anatomic pathology laboratory quality control.png)](./projects/RMedicine2021/Generating reports with R for anatomic pathology laboratory quality control.pdf)
 
+
 ---
+
+
+### ECDP2022 Validation Study
+
+[ECDP2022](https://www.ecdp2022.org/)
+
+Implemantation of Digital Pathology Workflow for Routine Primary Diagnosis in a Large Private Hospital Network
+
+[Abstract](./projects/ECDP2022/Validation-Study-ECDP2022-Abstract.md)
+
+
+
+---
+
 ## Toplantılar
 
 <br>

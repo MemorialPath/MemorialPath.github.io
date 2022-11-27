@@ -1,0 +1,59 @@
+---
+title: Memorial Patoloji Laboratuvarı
+output: github_document
+---
+
+
+```{r global, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  include = FALSE,
+  comment = "#>"
+)
+```
+
+
+# [MemorialPath.github.io](https://memorialpath.github.io/)
+
+---
+
+## Memorial Patoloji Laboratuvarı
+
+
+- [Ana Sayfa](https://patoloji.memorial.com.tr/)
+
+- [Hastane Sayfası](https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi)
+
+- [Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
+
+
+[![](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
+
+
+
+
+---
+
+## Laboratuvara ait bazı istatistikler
+
+
+```{r istatistiklerin okunmasi}
+raporsayisi <- readLines(con = "./publicinfo/raporsayisi")
+songuncelleme <- readLines(con = "./publicinfo/songuncelleme")
+ilkrapor <- readLines(con = "./publicinfo/ilkrapor")
+sonrapor <- readLines(con = "./publicinfo/sonrapor")
+
+# text1 <- readLines(con = "./data/deneme.txt")
+# text2 <- readr::read_file("./data/deneme.txt")
+
+```
+
+
+- Bu istatistikler en son `r songuncelleme` tarihinde güncellenmiştir.
+
+- `r ilkrapor` ile `r sonrapor` tarihleri arasında:
+    - Toplam `r raporsayisi` vaka raporlanmıştır.
+
+
+
+---

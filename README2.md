@@ -7,12 +7,12 @@ Memorial Patoloji Laboratuvarı
 
 ## Memorial Patoloji Laboratuvarı
 
--   [Ana Sayfa](https://patoloji.memorial.com.tr/)
+- [Ana Sayfa](https://patoloji.memorial.com.tr/)
 
--   [Hastane
-    Sayfası](https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi)
+- [Hastane
+  Sayfası](https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi)
 
--   [Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
+- [Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
 [![](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
 
@@ -20,10 +20,10 @@ Memorial Patoloji Laboratuvarı
 
 ## Laboratuvara ait bazı istatistikler
 
--   Bu istatistikler en son 05-05-2022 tarihinde güncellenmiştir.
+- Bu istatistikler en son 01-12-2022 tarihinde güncellenmiştir.
 
--   14-12-2020 ile 29-04-2022 tarihleri arasında:
+- 14-12-2020 ile 30-11-2022 tarihleri arasında:
 
-    -   Toplam 76697 vaka raporlanmıştır.
+  - Toplam 65636 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------

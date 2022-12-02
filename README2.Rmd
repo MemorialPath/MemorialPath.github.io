@@ -24,11 +24,16 @@ knitr::opts_chunk$set(
 
 - [Hastane Sayfası](https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi)
 
-- [Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
+- [Memorial Patoloji Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
 
 [![](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
 
+
+- Memorial Patoloji Kalite Politikası
+
+
+[![](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)
 
 
 

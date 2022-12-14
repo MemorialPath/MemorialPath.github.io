@@ -15,11 +15,18 @@ Memorial Patoloji Laboratuvarı
 - [Memorial Patoloji
   Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
-[![](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
+[![Memorial Patoloji Hekim
+Kadrosu](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
 
 - Memorial Patoloji Kalite Politikası
 
-[![](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)
+[![Memorial Patoloji Kalite
+Politikası](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)
+
+- Memorial Patoloji Patologlar
+
+[![Memorial Patoloji
+Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patoloji-Patologlar.jpeg)
 
 ------------------------------------------------------------------------
 
@@ -100,6 +107,7 @@ Implemantation of Digital Pathology Workflow for Routine Primary Diagnosis in a 
 
 
 <br>
+
  
 ---
 

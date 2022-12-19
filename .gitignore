@@ -42,7 +42,7 @@ data
 html-data-output
 html-app
 otherRmd
-# .Rproj.user
+.Rproj.user
 .Rhistory
 .RData
 .Rbuildignore
@@ -66,6 +66,5 @@ _book
 _bookdown_files
 /.quarto/
 *.xlsx
-MemorialPath.github.io-tbv.Rproj
 README2.html
-MemorialPath.github.io.Rproj
+bilgilendirme-videolari.html

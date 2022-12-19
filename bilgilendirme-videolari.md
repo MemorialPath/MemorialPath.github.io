@@ -61,6 +61,17 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnGSRSpWvtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+<br>
+
+
+### Hastaların nadiren yolunun düştüğü Patoloji Laboratuvarları, hastalar için hayati kararların verildiği merkezlerdir
+
+
+<blockquote class="twitter-tweet"><p lang="tr" dir="ltr">Patoloji sıklıkla kanser tanısı ile eşdeğer görülür. Ancak kanserin yanı sıra birçok farklı hastalığın tanısı için de &#39;patolojik inceleme&#39; gereklidir. Hastaların nadiren yolunun düştüğü Patoloji Laboratuvarları, hastalar için hayati kararların verildiği merkezlerdir. <a href="https://t.co/672K1sQJgB">pic.twitter.com/672K1sQJgB</a></p>&mdash; Memorial Sağlık (@MemorialSaglik) <a href="https://twitter.com/MemorialSaglik/status/1532708061701341185?ref_src=twsrc%5Etfw">June 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 <br>
 
 ### Meme kanseri ameliyatlarında cerrahi ve patoloji ekibinin işbirliği ile tümör ve lenf bezlerinin değerlendirmesi 

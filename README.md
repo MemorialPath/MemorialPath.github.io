@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Böbrek Tümörleri: Onkositom
+Jinekopatoloji: Over
 
-<iframe src='https://pathologyatlas.github.io/kidneyoncocytoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/ovarianserousmicropapillary/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/bobrek.html#onkositom>
+<https://www.patolojiatlasi.com/jineko.html#over>
 
 
 ---

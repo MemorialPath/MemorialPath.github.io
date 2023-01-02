@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Benign Tümörler: Adenomlar
+Miksoid Liposarkom: 
 
-<iframe src='https://pathologyatlas.github.io/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/myxoidliposarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/benign.html#adenomlar>
+<https://www.patolojiatlasi.com/adipoz.html>
 
 
 ---

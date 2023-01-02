@@ -49,11 +49,27 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ---
 
-Abdominal mezotelyoma: 
 
-<iframe src='https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+## Patoloji Atlası
 
-<https://www.patolojiatlasi.com/mezotel.html>
+
+  -   <https://www.patolojiatlasi.com/>
+  -   <https://www.patolojiatlasi.com/EN/>
+  -   <https://www.patolojinotlari.com/>
+
+
+
+---
+
+
+Plasenta: Koryoamnionit
+
+<iframe src='https://pathologyatlas.github.io/chorioamnionitis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+
+<https://www.patolojiatlasi.com/plasenta.html#koryoamnionit>
+
+
+---
 
 ## Projeler
 

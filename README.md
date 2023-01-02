@@ -48,19 +48,15 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 
 ---
+
+Abdominal mezotelyoma: 
+
+<iframe src='https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+
+<https://www.patolojiatlasi.com/mezotel.html>
+
 ## Projeler
 
-------------------------------------------------------------------------
-
-### Patoloji Atlası
-
-**Pathology Atlas and Notes for Medical Students: See and Learn**
-
--   <https://www.patolojiatlasi.com/>
-
--   <https://www.patolojiatlasi.com/EN/>
-
--   <https://www.patolojinotlari.com/>
 
 ------------------------------------------------------------------------
 
@@ -90,13 +86,6 @@ Diagnosis in a Large Private Hospital Network
 ### DİJİTAL PATOLOJİNİN RUTİN PRATİKTE KULLANIMI: BİR YILLIK MEMORİAL DENEYİMİ
 
 [Abstract](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.md)
-
-Abdominal mezotelyoma: 
-
-<iframe src='https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
-
-<https://www.patolojiatlasi.com/mezotel.html>
-
 ## Toplantılar
 
 <br>

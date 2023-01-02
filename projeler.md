@@ -1,16 +1,5 @@
 ## Projeler
 
-------------------------------------------------------------------------
-
-### Patoloji Atlası
-
-**Pathology Atlas and Notes for Medical Students: See and Learn**
-
--   <https://www.patolojiatlasi.com/>
-
--   <https://www.patolojiatlasi.com/EN/>
-
--   <https://www.patolojinotlari.com/>
 
 ------------------------------------------------------------------------
 

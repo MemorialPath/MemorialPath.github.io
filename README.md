@@ -50,7 +50,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-## Patoloji Atlası
+## Patoloji AtlasÄ±
 
 
   -   <https://www.patolojiatlasi.com/>
@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Plasenta: Koryoamnionit
+Benign Tümörler: Adenomlar
 
-<iframe src='https://pathologyatlas.github.io/chorioamnionitis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/plasenta.html#koryoamnionit>
+<https://www.patolojiatlasi.com/benign.html#adenomlar>
 
 
 ---

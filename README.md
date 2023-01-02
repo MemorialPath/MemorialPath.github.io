@@ -90,6 +90,13 @@ Diagnosis in a Large Private Hospital Network
 ### DİJİTAL PATOLOJİNİN RUTİN PRATİKTE KULLANIMI: BİR YILLIK MEMORİAL DENEYİMİ
 
 [Abstract](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.md)
+
+Abdominal mezotelyoma: 
+
+<iframe src='https://pathologyatlas.github.io/abdominal-mesothelioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+
+<https://www.patolojiatlasi.com/mezotel.html>
+
 ## Toplantılar
 
 <br>

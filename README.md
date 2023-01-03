@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Kolon patolojisi: Benign Tümörler
+Amiloidoz (Amiloid Birikimi): Kristal Viyole
 
-<iframe src='https://pathologyatlas.github.io/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/amyloid/crystalviolet.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/kolon.html#benign-tümörler>
+<https://www.patolojiatlasi.com/amiloid.html#kristal-viyole>
 
 
 ---

@@ -34,7 +34,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 - Bu istatistikler en son 03-01-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 29-12-2022 tarihleri arasında:
+- 14-12-2020 ile 30-12-2022 tarihleri arasında:
 
   - Toplam 120156 vaka raporlanmıştır.
 
@@ -50,7 +50,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-## Patoloji AtlasÄ±
+## Patoloji Atlasi
 
 
   -   <https://www.patolojiatlasi.com/>
@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hücre İçi Birikimler: Kolesterol Polibi
+Benign Tümörler: Adenomlar
 
-<iframe src='https://pathologyatlas.github.io/cholesterolpolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hucreicibirikimler.html#kolesterol-polibi>
+<https://www.patolojiatlasi.com/benign.html#adenomlar>
 
 
 ---

@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Adenokarsinomda Ekstramural Venöz İnvazyon: 
+Hücre İçi Birikimler: Kolesterol Polibi
 
-<iframe src='https://pathologyatlas.github.io/extramuralvenousinvasion/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/cholesterolpolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/ekstramuralvenozinvazyon.html>
+<https://www.patolojiatlasi.com/hucreicibirikimler.html#kolesterol-polibi>
 
 
 ---

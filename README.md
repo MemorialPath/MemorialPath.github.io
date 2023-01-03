@@ -32,7 +32,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 02-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 03-01-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 30-12-2022 tarihleri arasında:
 
@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Jinekopatoloji: Over
+Beyin İnvazyonu Gösteren Meningiom: 
 
-<iframe src='https://pathologyatlas.github.io/ovarianserousmicropapillary/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/brain-invasive-meningioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/jineko.html#over>
+<https://www.patolojiatlasi.com/meningiom.html>
 
 
 ---

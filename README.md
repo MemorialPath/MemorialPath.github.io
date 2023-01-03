@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Safra Kesesi Adenomyom: 
+Hücre İçi Birikimler: Antrakoz, Antrakotik Pigment
 
-<iframe src='https://pathologyatlas.github.io/gallbladder-adenomyoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/anthracosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/safrakesesi.html>
+<https://www.patolojiatlasi.com/hucreicibirikimler.html#antrakoz-antrakotik-pigment>
 
 
 ---

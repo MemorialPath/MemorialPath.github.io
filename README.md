@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hücre İçi Birikimler: Antrakoz, Antrakotik Pigment
+Kolon patolojisi: Benign Tümörler
 
-<iframe src='https://pathologyatlas.github.io/anthracosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hucreicibirikimler.html#antrakoz-antrakotik-pigment>
+<https://www.patolojiatlasi.com/kolon.html#benign-tümörler>
 
 
 ---

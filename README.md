@@ -32,7 +32,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 03-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 04-01-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 30-12-2022 tarihleri arasında:
 
@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Amiloidoz (Amiloid Birikimi): Kristal Viyole
+Metastaz: Karaciğerde Sarkom Metastazı
 
-<iframe src='https://pathologyatlas.github.io/amyloid/crystalviolet.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/metastaticsarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/amiloid.html#kristal-viyole>
+<https://www.patolojiatlasi.com/metastaz.html#karaciğerde-sarkom-metastazı>
 
 
 ---

@@ -34,7 +34,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 - Bu istatistikler en son 04-01-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 30-12-2022 tarihleri arasında:
+- 14-12-2020 ile 29-12-2022 tarihleri arasında:
 
   - Toplam 120156 vaka raporlanmıştır.
 
@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Metastaz: Karaciğerde Sarkom Metastazı
+metaplazi, displazi, karsinom: 
 
-<iframe src='https://pathologyatlas.github.io/metastaticsarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://pathologyatlas.github.io/carcinogenesis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/metastaz.html#karaciğerde-sarkom-metastazı>
+<https://www.patolojiatlasi.com/karsinogenez.html>
 
 
 ---

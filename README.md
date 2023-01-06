@@ -32,7 +32,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 06-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 07-01-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 04-01-2023 tarihleri arasında:
 
@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Metastaz: Karaciğerde Sarkom Metastazı
+Hemodinamik Bozukluklar: İskemi ve Nekroz
 
-<iframe src='https://images.patolojiatlasi.com/metastaticsarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/fat-necrosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/metastaz.html#karaciğerde-sarkom-metastazı>
+<https://www.patolojiatlasi.com/iskeminekroz.html#iskemi-ve-nekroz>
 
 
 ---

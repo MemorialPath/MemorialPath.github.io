@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Tamir Mekanizmaları: Keloid - Skar
+Yüksek Dereceli Gliom Yayma Preparat: 
 
-<iframe src='https://images.patolojiatlasi.com/keloid-scar/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/high-grade-glioma-squash/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/tamir.html#keloid---skar>
+<https://www.patolojiatlasi.com/gliom.html>
 
 
 ---

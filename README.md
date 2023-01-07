@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Kolon patolojisi: Benign Tümörler
+Heterotopi Ektopi: Intrapancreatic Spleen, Heterotopia
 
-<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/intrapancreaticspleen/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/kolon.html#benign-tümörler>
+<https://www.patolojiatlasi.com/heterotopi.html#intrapancreatic-spleen-heterotopia>
 
 
 ---

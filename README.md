@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hemodinamik Bozukluklar: İskemi ve Nekroz
+Endometriozis: 
 
-<iframe src='https://images.patolojiatlasi.com/fat-necrosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/endometriosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/iskeminekroz.html#iskemi-ve-nekroz>
+<https://www.patolojiatlasi.com/endometriosis.html>
 
 
 ---

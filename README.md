@@ -32,7 +32,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 08-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 09-01-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 04-01-2023 tarihleri arasında:
 
@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Tamir Mekanizmaları: Keloid - Skar
+Amiloidoz (Amiloid Birikimi): Congo Red
 
-<iframe src='https://images.patolojiatlasi.com/keloid-scar/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/congored/congored.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/tamir.html#keloid---skar>
+<https://www.patolojiatlasi.com/amiloid.html#congo-red>
 
 
 ---

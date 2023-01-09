@@ -62,11 +62,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Amiloidoz (Amiloid Birikimi): Congo Red
+Karaciğer Tümörleri: Hepatoselüler Karsinom
 
-<iframe src='https://images.patolojiatlasi.com/congored/congored.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/hepatocellularcarcinoma/HCC/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/amiloid.html#congo-red>
+<https://www.patolojiatlasi.com/karaciger.html#hepatoselüler-karsinom>
 
 
 ---

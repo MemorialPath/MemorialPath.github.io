@@ -32,11 +32,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 04-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 12-01-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 30-12-2022 tarihleri arasında:
+- 14-12-2020 ile 04-01-2023 tarihleri arasında:
 
-  - Toplam 120156 vaka raporlanmıştır.
+  - Toplam 121023 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 ## Dijital Patoloji
@@ -48,6 +48,29 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 
 ---
+
+
+## Patoloji Atlasi
+
+
+  -   <https://www.patolojiatlasi.com/>
+  -   <https://www.patolojiatlasi.com/EN/>
+  -   <https://www.patolojinotlari.com/>
+
+
+
+---
+
+
+Kulak: 
+
+<iframe src='https://images.patolojiatlasi.com/cholesteatoma/cholesteatoma.html' style='height:400px;width:100%;' data-external='1'></iframe>
+
+<https://www.patolojiatlasi.com/kulak.html>
+
+
+---
+
 ## Projeler
 
 

@@ -34,9 +34,9 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 - Bu istatistikler en son 19-01-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 12-01-2023 tarihleri arasında:
+- 14-12-2020 ile 19-01-2023 tarihleri arasında:
 
-  - Toplam 122512 vaka raporlanmıştır.
+  - Toplam 123759 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -66,11 +66,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hamartom: Hamartomatöz Polip
+Hodgkin Lenfoma: 
 
-<iframe src='https://images.patolojiatlasi.com/hamartomatouspolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/hodgkin/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hamartom.html#hamartomatöz-polip>
+<https://www.patolojiatlasi.com/hodgkin.html>
 
 
 ---

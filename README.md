@@ -32,11 +32,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 19-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 20-01-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 12-01-2023 tarihleri arasında:
+- 14-12-2020 ile 19-01-2023 tarihleri arasında:
 
-  - Toplam 122512 vaka raporlanmıştır.
+  - Toplam 123759 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -66,11 +66,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Beyin İnvazyonu Gösteren Meningiom: 
+Jinekopatoloji: Over
 
-<iframe src='https://images.patolojiatlasi.com/brain-invasive-meningioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/ovarianserousmicropapillary/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/meningiom.html>
+<https://www.patolojiatlasi.com/jineko.html#over>
 
 
 ---

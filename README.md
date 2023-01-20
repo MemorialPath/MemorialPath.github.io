@@ -66,11 +66,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Jinekopatoloji: Over
+Beyin İnvazyonu Gösteren Meningiom: 
 
-<iframe src='https://images.patolojiatlasi.com/ovarianserousmicropapillary/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/brain-invasive-meningioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/jineko.html#over>
+<https://www.patolojiatlasi.com/meningiom.html>
 
 
 ---

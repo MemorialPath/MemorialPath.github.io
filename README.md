@@ -66,11 +66,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hemodinamik Bozukluklar: İskemi ve Nekroz
+Hamartom: Hamartomatöz Polip
 
-<iframe src='https://images.patolojiatlasi.com/fat-necrosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/hamartomatouspolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/iskeminekroz.html#iskemi-ve-nekroz>
+<https://www.patolojiatlasi.com/hamartom.html#hamartomatöz-polip>
 
 
 ---

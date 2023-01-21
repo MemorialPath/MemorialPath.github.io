@@ -66,11 +66,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Özefagusta Granüler Hücreli Tümör: 
+Hamartom: Schwann Cell Hamartoma in a Colon Polyp
 
-<iframe src='https://images.patolojiatlasi.com/granular-cell-tumor/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/schwanncellhamartoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/ozofagus.html>
+<https://www.patolojiatlasi.com/hamartom.html#schwann-cell-hamartoma-in-a-colon-polyp>
 
 
 ---

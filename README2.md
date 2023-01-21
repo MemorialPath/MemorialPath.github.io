@@ -32,7 +32,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 20-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 21-01-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 19-01-2023 tarihleri arasında:
 

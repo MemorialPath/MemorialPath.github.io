@@ -32,7 +32,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 20-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 21-01-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 19-01-2023 tarihleri arasında:
 
@@ -66,11 +66,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Beyin İnvazyonu Gösteren Meningiom: 
+Özefagusta Granüler Hücreli Tümör: 
 
-<iframe src='https://images.patolojiatlasi.com/brain-invasive-meningioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/granular-cell-tumor/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/meningiom.html>
+<https://www.patolojiatlasi.com/ozofagus.html>
 
 
 ---

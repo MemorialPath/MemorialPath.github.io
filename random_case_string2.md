@@ -15,11 +15,11 @@
 ---
 
 
-Hipofiz Adenomu: 
+Adenokarsinomda Ekstramural Venöz İnvazyon: 
 
-<iframe src='https://images.patolojiatlasi.com/pituitary-adenoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/extramuralvenousinvasion/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hipofiz.html>
+<https://www.patolojiatlasi.com/ekstramuralvenozinvazyon.html>
 
 
 ---

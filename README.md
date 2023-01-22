@@ -66,11 +66,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Heterotopi Ektopi: Intrapancreatic Spleen, Heterotopia
+Hücre İçi Birikimler: Kolesterol Polibi
 
-<iframe src='https://images.patolojiatlasi.com/intrapancreaticspleen/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/cholesterolpolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/heterotopi.html#intrapancreatic-spleen-heterotopia>
+<https://www.patolojiatlasi.com/hucreicibirikimler.html#kolesterol-polibi>
 
 
 ---

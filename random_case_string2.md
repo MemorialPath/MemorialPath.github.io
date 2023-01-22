@@ -15,11 +15,11 @@
 ---
 
 
-Beyin İnvazyonu Gösteren Meningiom: 
+Benign Tümörler: Adenomlar
 
-<iframe src='https://images.patolojiatlasi.com/brain-invasive-meningioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/meningiom.html>
+<https://www.patolojiatlasi.com/benign.html#adenomlar>
 
 
 ---

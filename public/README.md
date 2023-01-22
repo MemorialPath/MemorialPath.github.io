@@ -66,11 +66,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Metastaz: Karaciğerde Sarkom Metastazı
+Hodgkin Lenfoma: 
 
-<iframe src='https://images.patolojiatlasi.com/metastaticsarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/hodgkin/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/metastaz.html#karaciğerde-sarkom-metastazı>
+<https://www.patolojiatlasi.com/hodgkin.html>
 
 
 ---

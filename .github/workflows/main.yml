@@ -1,0 +1,28 @@
+name: MemorialPath Pages
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  pushes-to-public:
+    if: "!contains(github.event.head_commit.message, 'WIP')"
+    runs-on: ubuntu-latest
+    env:
+      RENV_PATHS_ROOT: ~/.local/share/renv
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: "actions checkout"
+        uses: actions/checkout@v2
+
+      - name: Pushes to public
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: 'forPublicRepo'
+          destination-github-username: 'MemorialPath'
+          destination-repository-name: 'forPublicRepo'
+          user-email: drserdarbalci@gmail.com
+          target-branch: main

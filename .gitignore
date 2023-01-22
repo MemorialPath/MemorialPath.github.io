@@ -49,7 +49,7 @@ otherRmd
 _publish.R
 *_files
 _main.*
-*.md
+# *.md
 *.RDS
 *.xls
 *.xlxs

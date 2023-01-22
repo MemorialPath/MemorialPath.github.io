@@ -23,6 +23,6 @@ jobs:
         with:
           source-directory: 'forPublicRepo'
           destination-github-username: 'MemorialPath'
-          destination-repository-name: 'public'
+          destination-repository-name: 'forPublicRepo'
           user-email: drserdarbalci@gmail.com
           target-branch: main

@@ -15,11 +15,11 @@
 ---
 
 
-Miksoid Liposarkom: 
+Hamartom: Hamartomatöz Polip
 
-<iframe src='https://images.patolojiatlasi.com/myxoidliposarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/hamartomatouspolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/adipoz.html>
+<https://www.patolojiatlasi.com/hamartom.html#hamartomatöz-polip>
 
 
 ---

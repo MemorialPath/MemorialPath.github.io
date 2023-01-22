@@ -15,11 +15,11 @@
 ---
 
 
-Hamartom: Hamartomatöz Polip
+Hipofiz Adenomu: 
 
-<iframe src='https://images.patolojiatlasi.com/hamartomatouspolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/pituitary-adenoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hamartom.html#hamartomatöz-polip>
+<https://www.patolojiatlasi.com/hipofiz.html>
 
 
 ---

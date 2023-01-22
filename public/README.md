@@ -66,11 +66,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hodgkin Lenfoma: 
+Kulak: 
 
-<iframe src='https://images.patolojiatlasi.com/hodgkin/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/cholesteatoma/cholesteatoma.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hodgkin.html>
+<https://www.patolojiatlasi.com/kulak.html>
 
 
 ---

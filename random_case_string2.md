@@ -15,11 +15,11 @@
 ---
 
 
-Hücre İçi Birikimler: Kolesterol Polibi
+Viruslar: Herpes Simplex Virus (HSV)
 
-<iframe src='https://images.patolojiatlasi.com/cholesterolpolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hucreicibirikimler.html#kolesterol-polibi>
+<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
 
 
 ---

@@ -3,6 +3,8 @@ Memorial Patoloji Laboratuvarı
 
 # [MemorialPath.github.io](https://memorialpath.github.io/)
 
+<https://memorial.patoloji.dev/>
+
 ------------------------------------------------------------------------
 
 ## Memorial Patoloji Laboratuvarı
@@ -32,7 +34,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 22-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 23-01-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 19-01-2023 tarihleri arasında:
 
@@ -66,11 +68,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Benign Tümörler: Adenomlar
+Hodgkin Lenfoma: 
 
-<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/hodgkin/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/benign.html#adenomlar>
+<https://www.patolojiatlasi.com/hodgkin.html>
 
 
 ---

@@ -34,7 +34,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 24-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 26-01-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 19-01-2023 tarihleri arasında:
 
@@ -68,11 +68,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Kolon patolojisi: Benign Tümörler
+Plasenta: Koryoamnionit
 
-<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/chorioamnionitis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/kolon.html#benign-tümörler>
+<https://www.patolojiatlasi.com/plasenta.html#koryoamnionit>
 
 
 ---

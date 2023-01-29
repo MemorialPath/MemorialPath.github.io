@@ -34,7 +34,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 28-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 29-01-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 26-01-2023 tarihleri arasında:
 
@@ -68,11 +68,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Safra Kesesi Adenomyom: 
+Hücre İçi Birikimler: Kolesterol Polibi
 
-<iframe src='https://images.patolojiatlasi.com/gallbladder-adenomyoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/cholesterolpolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/safrakesesi.html>
+<https://www.patolojiatlasi.com/hucreicibirikimler.html#kolesterol-polibi>
 
 
 ---

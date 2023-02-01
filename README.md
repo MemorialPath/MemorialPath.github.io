@@ -34,7 +34,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 31-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 01-02-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 26-01-2023 tarihleri arasında:
 
@@ -68,11 +68,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Tamir Mekanizmaları: Keloid - Skar
+Benign Tümörler: Adenomlar
 
-<iframe src='https://images.patolojiatlasi.com/keloid-scar/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/tamir.html#keloid---skar>
+<https://www.patolojiatlasi.com/benign.html#adenomlar>
 
 
 ---

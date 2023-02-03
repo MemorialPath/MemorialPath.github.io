@@ -15,11 +15,11 @@
 ---
 
 
-Benign Tümörler: Adenomlar
+Özefagusta Granüler Hücreli Tümör: 
 
-<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/granular-cell-tumor/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/benign.html#adenomlar>
+<https://www.patolojiatlasi.com/ozofagus.html>
 
 
 ---

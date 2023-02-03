@@ -34,11 +34,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 01-02-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 03-02-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 26-01-2023 tarihleri arasında:
+- 14-12-2020 ile 03-02-2023 tarihleri arasında:
 
-  - Toplam 125235 vaka raporlanmıştır.
+  - Toplam 126681 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -68,11 +68,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Benign Tümörler: Adenomlar
+Özefagusta Granüler Hücreli Tümör: 
 
-<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/granular-cell-tumor/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/benign.html#adenomlar>
+<https://www.patolojiatlasi.com/ozofagus.html>
 
 
 ---

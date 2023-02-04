@@ -34,7 +34,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 03-02-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 04-02-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 03-02-2023 tarihleri arasında:
 
@@ -68,11 +68,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hamartom: Hamartomatöz Polip
+Viruslar: Herpes Simplex Virus (HSV)
 
-<iframe src='https://images.patolojiatlasi.com/hamartomatouspolyp/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hamartom.html#hamartomatöz-polip>
+<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
 
 
 ---

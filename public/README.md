@@ -34,11 +34,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 28-01-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 04-02-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 26-01-2023 tarihleri arasında:
+- 14-12-2020 ile 03-02-2023 tarihleri arasında:
 
-  - Toplam 125235 vaka raporlanmıştır.
+  - Toplam 126681 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -68,11 +68,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Safra Kesesi Adenomyom: 
+Viruslar: Herpes Simplex Virus (HSV)
 
-<iframe src='https://images.patolojiatlasi.com/gallbladder-adenomyoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/safrakesesi.html>
+<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
 
 
 ---

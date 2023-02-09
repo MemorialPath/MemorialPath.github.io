@@ -15,11 +15,11 @@
 ---
 
 
-Hücre İçi Birikimler: Antrakoz, Antrakotik Pigment
+Özefagusta Granüler Hücreli Tümör: 
 
-<iframe src='https://images.patolojiatlasi.com/anthracosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/granular-cell-tumor/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hucreicibirikimler.html#antrakoz-antrakotik-pigment>
+<https://www.patolojiatlasi.com/ozofagus.html>
 
 
 ---

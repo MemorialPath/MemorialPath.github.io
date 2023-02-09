@@ -34,7 +34,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 08-02-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 09-02-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 03-02-2023 tarihleri arasında:
 
@@ -68,11 +68,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hücre İçi Birikimler: Antrakoz, Antrakotik Pigment
+Özefagusta Granüler Hücreli Tümör: 
 
-<iframe src='https://images.patolojiatlasi.com/anthracosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/granular-cell-tumor/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hucreicibirikimler.html#antrakoz-antrakotik-pigment>
+<https://www.patolojiatlasi.com/ozofagus.html>
 
 
 ---

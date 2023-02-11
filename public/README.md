@@ -121,7 +121,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 09-02-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 10-02-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 03-02-2023 tarihleri arasında:
 
@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Miksoid Liposarkom: 
+Jinekopatoloji: Over
 
-<iframe src='https://images.patolojiatlasi.com/myxoidliposarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/ovarianserousmicropapillary/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/adipoz.html>
+<https://www.patolojiatlasi.com/jineko.html#over>
 
 
 ---

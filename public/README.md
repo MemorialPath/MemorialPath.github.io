@@ -123,9 +123,9 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 - Bu istatistikler en son 10-02-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 03-02-2023 tarihleri arasında:
+- 14-12-2020 ile 10-02-2023 tarihleri arasında:
 
-  - Toplam 126681 vaka raporlanmıştır.
+  - Toplam 128014 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Jinekopatoloji: Over
+Özefagusta Granüler Hücreli Tümör: 
 
-<iframe src='https://images.patolojiatlasi.com/ovarianserousmicropapillary/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/granular-cell-tumor/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/jineko.html#over>
+<https://www.patolojiatlasi.com/ozofagus.html>
 
 
 ---

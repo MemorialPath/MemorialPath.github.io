@@ -121,7 +121,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 10-02-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 11-02-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 10-02-2023 tarihleri arasında:
 
@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Özefagusta Granüler Hücreli Tümör: 
+Benign Tümörler: Adenomlar
 
-<iframe src='https://images.patolojiatlasi.com/granular-cell-tumor/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/ozofagus.html>
+<https://www.patolojiatlasi.com/benign.html#adenomlar>
 
 
 ---

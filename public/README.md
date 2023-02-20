@@ -28,7 +28,7 @@ Memorial Patoloji Laboratuvarı
       "@type": "Person",
       "name": "Dr. Serdar Balcı",
       "jobTitle": "Pathologist",
-      "url": "https://www.memorial.com.tr/doktorlar/serdar-balci",
+      "url": "https://www.memorial.com.tr/doktorlar/serdar-balci-k",
       "sameAs": [
         "https://www.linkedin.com/in/serdar-balci-md-pathologist/",
         "https://scholar.google.com.tr/citations?user=q40DcqYAAAAJ"
@@ -85,7 +85,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 - [Şemsi Yıldız]()
 
-- [Serdar Balcı](https://www.memorial.com.tr/doktorlar/serdar-balci)
+- [Serdar Balcı](https://www.memorial.com.tr/doktorlar/serdar-balci-k)
 
 - [Sezen
   Koçarslan](https://www.memorial.com.tr/doktorlar/sezen-kocarslan)

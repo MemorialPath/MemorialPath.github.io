@@ -121,7 +121,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 18-02-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 21-02-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 10-02-2023 tarihleri arasında:
 
@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Miksoid Liposarkom: 
+Plasenta: Koryoamnionit
 
-<iframe src='https://images.patolojiatlasi.com/myxoidliposarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/chorioamnionitis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/adipoz.html>
+<https://www.patolojiatlasi.com/plasenta.html#koryoamnionit>
 
 
 ---
@@ -195,6 +195,8 @@ Diagnosis in a Large Private Hospital Network
 ### DİJİTAL PATOLOJİNİN RUTİN PRATİKTE KULLANIMI: BİR YILLIK MEMORİAL DENEYİMİ
 
 [Abstract](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.md)
+
+[Poster](./projects/ulusal2022/dijital-patolojinin-rutin-pratikte-kullanimi.pdf)
 
 
 

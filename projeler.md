@@ -30,6 +30,8 @@ Diagnosis in a Large Private Hospital Network
 
 [Abstract](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.md)
 
+[Poster](./projects/ulusal2022/dijital-patolojinin-rutin-pratikte-kullanimi.pdf)
+
 
 
 

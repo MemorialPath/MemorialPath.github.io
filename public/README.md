@@ -121,7 +121,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 23-02-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 25-02-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 10-02-2023 tarihleri arasında:
 
@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Plasenta: Koryoamnionit
+Beyin İnvazyonu Gösteren Meningiom: 
 
-<iframe src='https://images.patolojiatlasi.com/chorioamnionitis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/brain-invasive-meningioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/plasenta.html#koryoamnionit>
+<https://www.patolojiatlasi.com/meningiom.html>
 
 
 ---

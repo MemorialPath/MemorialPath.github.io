@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Endometrial Polip: 
+Adenokarsinomda Ekstramural Venöz İnvazyon: 
 
 <iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/endometrium.html>
+<https://www.patolojiatlasi.com/ekstramuralvenozinvazyon.html>
 
 
 ---

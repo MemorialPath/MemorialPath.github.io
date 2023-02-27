@@ -121,7 +121,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 25-02-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 27-02-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 10-02-2023 tarihleri arasında:
 
@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Safra Kesesi Adenomyom: 
+Adenokarsinomda Ekstramural Venöz İnvazyon: 
 
-<iframe src='https://images.patolojiatlasi.com/gallbladder-adenomyoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/safrakesesi.html>
+<https://www.patolojiatlasi.com/ekstramuralvenozinvazyon.html>
 
 
 ---

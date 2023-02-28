@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Adenokarsinomda Ekstramural Venöz İnvazyon: 
+Abdominal mezotelyoma: 
 
-<iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/ekstramuralvenozinvazyon.html>
+<https://www.patolojiatlasi.com/mezotel.html>
 
 
 ---

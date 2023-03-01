@@ -57,6 +57,13 @@ Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco, Patoloji Bölü
 
 
 
+<br><hr>
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7036626964920643584" height="738" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+
 ---
 
 

@@ -121,11 +121,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 01-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 02-03-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 10-02-2023 tarihleri arasında:
+- 14-12-2020 ile 01-03-2023 tarihleri arasında:
 
-  - Toplam 128014 vaka raporlanmıştır.
+  - Toplam 131181 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Amiloidoz (Amiloid Birikimi): Kristal Viyole
+Viruslar: Herpes Simplex Virus (HSV)
 
-<iframe src='https://images.patolojiatlasi.com/amyloid/crystalviolet.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/amiloid.html#kristal-viyole>
+<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
 
 
 ---

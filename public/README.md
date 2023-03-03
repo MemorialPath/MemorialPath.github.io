@@ -121,7 +121,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 02-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 03-03-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 01-03-2023 tarihleri arasında:
 
@@ -155,11 +155,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Viruslar: Herpes Simplex Virus (HSV)
+Hücre İçi Birikimler: Antrakoz, Antrakotik Pigment
 
-<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
+<https://www.patolojiatlasi.com/hucreicibirikimler.html#antrakoz-antrakotik-pigment>
 
 
 ---

@@ -2,7 +2,7 @@
 
 
 
-## Memorial Patoloji Bilgilendirme Videoları
+## Memorial Patoloji Bilgilendirme Videoları{#bilgilendirme-videolari}
 
 
 

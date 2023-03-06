@@ -1,15 +1,7 @@
 Memorial Patoloji Laboratuvarı
 ================
 
-
-
-# [MemorialPath.github.io](https://memorialpath.github.io/)
-
-<https://memorial.patoloji.dev/>
-
-------------------------------------------------------------------------
-
-## Memorial Patoloji Laboratuvarı
+## [Memorial Patoloji Laboratuvarı](https://memorial.patoloji.dev/)
 
 - [Ana Sayfa](https://patoloji.memorial.com.tr/)
 
@@ -86,7 +78,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 03-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 06-03-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 01-03-2023 tarihleri arasında:
 
@@ -108,7 +100,10 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 
 
-## Patoloji Atlasi
+
+## Patoloji Atlasi{#patoloji-atlasi}
+
+
 
 
   -   <https://www.patolojiatlasi.com/>
@@ -120,11 +115,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Viruslar: Herpes Simplex Virus (HSV)
+Endometrial Polip: 
 
-<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
+<https://www.patolojiatlasi.com/endometrium.html>
 
 
 ---
@@ -177,7 +172,7 @@ Diagnosis in a Large Private Hospital Network
 
 
 
-## Toplantılar
+## Toplantılar{#toplantilar}
 
 
  
@@ -248,7 +243,7 @@ Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco, Patoloji Bölü
 
 
 
-## Memorial Patoloji Bilgilendirme Videoları
+## Memorial Patoloji Bilgilendirme Videoları{#bilgilendirme-videolari}
 
 
 

@@ -1,50 +1,7 @@
 Memorial Patoloji Laboratuvarı
 ================
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MedicalOrganization",
-  "name": "Memorial Sağlık Grubu Patoloji Laboratuvarı",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Memorial Patoloji Laboratuvarı, Ortadoğu Plaza Kat:14, Kaptanpaşa Mah. Piyalepaşa Bulvarı, Okmeydanı Cd No:73",
-    "addressLocality": "Şişli",
-    "addressRegion": "İstanbul",
-    "postalCode": "34384",
-    "addressCountry": "Türkiye"
-  },
-  "url": "https://patoloji.memorial.com.tr/",
-  "url": "https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi",
-       
-  "member": [
-    {
-      "@type": "Person",
-      "name": "Dr. İlknur Türkmen",
-      "jobTitle": "Laboratuvar Direktörü",
-      "url": "https://www.memorial.com.tr/en/doctors/ilknur-turkmen-1975"
-    },
-    {
-      "@type": "Person",
-      "name": "Dr. Serdar Balcı",
-      "jobTitle": "Pathologist",
-      "url": "https://www.memorial.com.tr/doktorlar/serdar-balci-k",
-      "sameAs": [
-        "https://www.linkedin.com/in/serdar-balci-md-pathologist/",
-        "https://scholar.google.com.tr/citations?user=q40DcqYAAAAJ"
-      ]
-    }
-  ]
-}
-</script>
-
-# [MemorialPath.github.io](https://memorialpath.github.io/)
-
-<https://memorial.patoloji.dev/>
-
-------------------------------------------------------------------------
-
-## Memorial Patoloji Laboratuvarı
+## [Memorial Patoloji Laboratuvarı](https://memorial.patoloji.dev/)
 
 - [Ana Sayfa](https://patoloji.memorial.com.tr/)
 
@@ -121,7 +78,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 03-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 06-03-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 01-03-2023 tarihleri arasında:
 
@@ -143,7 +100,10 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 
 
-## Patoloji Atlasi
+
+## Patoloji Atlasi{#patoloji-atlasi}
+
+
 
 
   -   <https://www.patolojiatlasi.com/>
@@ -155,11 +115,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hücre İçi Birikimler: Antrakoz, Antrakotik Pigment
+Metastaz: Karaciğerde Sarkom Metastazı
 
-<iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/metastaticsarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hucreicibirikimler.html#antrakoz-antrakotik-pigment>
+<https://www.patolojiatlasi.com/metastaz.html#karaciğerde-sarkom-metastazı>
 
 
 ---
@@ -212,7 +172,7 @@ Diagnosis in a Large Private Hospital Network
 
 
 
-## Toplantılar
+## Toplantılar{#toplantilar}
 
 
  
@@ -283,7 +243,7 @@ Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco, Patoloji Bölü
 
 
 
-## Memorial Patoloji Bilgilendirme Videoları
+## Memorial Patoloji Bilgilendirme Videoları{#bilgilendirme-videolari}
 
 
 

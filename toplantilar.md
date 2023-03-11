@@ -68,6 +68,11 @@ Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco, Patoloji Bölü
 - [Dijital patoloji çalıştayı farklı sektörlerden uzman isimleri buluşturdu](https://rhaajans.com/haber/14169609/dijital-patoloji-calistayi-farkli-sektorlerden-uzman-isimleri-bulusturdu)
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9aIVf0hhSDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 ---
 
 

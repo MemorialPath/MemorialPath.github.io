@@ -78,7 +78,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 06-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 11-03-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 01-03-2023 tarihleri arasında:
 
@@ -115,11 +115,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Endometrial Polip: 
+metaplazi, displazi, karsinom: 
 
 <iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/endometrium.html>
+<https://www.patolojiatlasi.com/karsinogenez.html>
 
 
 ---
@@ -229,6 +229,15 @@ Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco, Patoloji Bölü
 
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7036626964920643584" height="738" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+- [Dijital patoloji çalıştayı farklı sektörlerden uzman isimleri buluşturdu](https://www.ekonomidunya.com/dijital-patoloji-calistayi-farkli-sektorlerden-uzman-isimleri-bulusturdu/43944/)
+
+- [Dijital patoloji çalıştayı farklı sektörlerden uzman isimleri buluşturdu](https://rhaajans.com/haber/14169609/dijital-patoloji-calistayi-farkli-sektorlerden-uzman-isimleri-bulusturdu)
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9aIVf0hhSDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 

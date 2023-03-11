@@ -9,11 +9,11 @@
 ---
 
 
-Endometrial Polip: 
+metaplazi, displazi, karsinom: 
 
 <iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/endometrium.html>
+<https://www.patolojiatlasi.com/karsinogenez.html>
 
 
 ---

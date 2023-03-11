@@ -78,7 +78,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 06-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 10-03-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 01-03-2023 tarihleri arasında:
 
@@ -115,11 +115,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Metastaz: Karaciğerde Sarkom Metastazı
+Viruslar: Herpes Simplex Virus (HSV)
 
-<iframe src='https://images.patolojiatlasi.com/metastaticsarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/metastaz.html#karaciğerde-sarkom-metastazı>
+<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
 
 
 ---
@@ -230,6 +230,10 @@ Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco, Patoloji Bölü
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7036626964920643584" height="738" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+
+- [Dijital patoloji çalıştayı farklı sektörlerden uzman isimleri buluşturdu](https://www.ekonomidunya.com/dijital-patoloji-calistayi-farkli-sektorlerden-uzman-isimleri-bulusturdu/43944/)
+
+- [Dijital patoloji çalıştayı farklı sektörlerden uzman isimleri buluşturdu](https://rhaajans.com/haber/14169609/dijital-patoloji-calistayi-farkli-sektorlerden-uzman-isimleri-bulusturdu)
 
 
 ---

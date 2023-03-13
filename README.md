@@ -78,7 +78,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 11-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 12-03-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 01-03-2023 tarihleri arasında:
 
@@ -115,11 +115,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-metaplazi, displazi, karsinom: 
+Böbrek Tümörleri: Onkositom
 
-<iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/kidneyoncocytoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/karsinogenez.html>
+<https://www.patolojiatlasi.com/bobrek.html#onkositom>
 
 
 ---

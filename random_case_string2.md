@@ -9,11 +9,11 @@
 ---
 
 
-metaplazi, displazi, karsinom: 
+Böbrek Tümörleri: Onkositom
 
-<iframe src='https://images.patolojiatlasi.com/NAhtml' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/kidneyoncocytoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/karsinogenez.html>
+<https://www.patolojiatlasi.com/bobrek.html#onkositom>
 
 
 ---

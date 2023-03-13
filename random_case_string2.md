@@ -9,11 +9,11 @@
 ---
 
 
-Böbrek Tümörleri: Onkositom
+Amiloidoz (Amiloid Birikimi): Kristal Viyole
 
-<iframe src='https://images.patolojiatlasi.com/kidneyoncocytoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/amyloid/crystalviolet.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/bobrek.html#onkositom>
+<https://www.patolojiatlasi.com/amiloid.html#kristal-viyole>
 
 
 ---

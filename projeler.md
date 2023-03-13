@@ -1,39 +1,60 @@
 
 
 
-## Projeler
+## Projeler  
 
 
-### R/Medicine 2021 Generating reports with R for anatomic pathology laboratory quality control
+### R/Medicine 2021  
 
-[R/Medicine 2021](https://r-medicine-2021.netlify.app/)
+**Generating reports with R for anatomic pathology laboratory quality control**  
 
-[Abstract](./projects/RMedicine2021/Generating%20reports%20with%20R%20for%20anatomic%20pathology%20laboratory%20quality%20control.nb.html)
+[R/Medicine 2021](https://r-medicine-2021.netlify.app/)  
 
-[Poster](https://spatial.chat/s/R-Medicine2021?room=231309)
+[Abstract](./projects/RMedicine2021/Generating%20reports%20with%20R%20for%20anatomic%20pathology%20laboratory%20quality%20control.nb.html)  
 
-[![](./projects/RMedicine2021/images/Generating%20reports%20with%20R%20for%20anatomic%20pathology%20laboratory%20quality%20control.png)](./projects/RMedicine2021/Generating%20reports%20with%20R%20for%20anatomic%20pathology%20laboratory%20quality%20control.pdf)
+[Poster](https://spatial.chat/s/R-Medicine2021?room=231309)  
 
-
-### ECDP2022 Validation Study
-
-[ECDP2022](https://www.ecdp2022.org/)
-
-Implemantation of Digital Pathology Workflow for Routine Primary
-Diagnosis in a Large Private Hospital Network
-
-[Abstract](./projects/ECDP2022/Validation-Study-ECDP2022-Abstract.md)
+[![](./projects/RMedicine2021/images/Generating%20reports%20with%20R%20for%20anatomic%20pathology%20laboratory%20quality%20control.png)](./projects/RMedicine2021/Generating%20reports%20with%20R%20for%20anatomic%20pathology%20laboratory%20quality%20control.pdf)  
 
 
+### ECDP2022 Validation Study  
 
-### DİJİTAL PATOLOJİNİN RUTİN PRATİKTE KULLANIMI: BİR YILLIK MEMORİAL DENEYİMİ
+[ECDP2022](https://www.ecdp2022.org/)  
 
-[Abstract](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.md)
+**Implemantation of Digital Pathology Workflow for Routine Primary Diagnosis in a Large Private Hospital Network**  
 
-[Poster](./projects/ulusal2022/dijital-patolojinin-rutin-pratikte-kullanimi.pdf)
+[Abstract](./projects/ECDP2022/Validation-Study-ECDP2022-Abstract.md)  
 
 
 
+### Ulusal Patoloj Kongresi 2022  
+
+**DİJİTAL PATOLOJİNİN RUTİN PRATİKTE KULLANIMI: BİR YILLIK MEMORİAL DENEYİMİ**  
+
+[Abstract](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.md)  
+
+[Poster](./projects/ulusal2022/dijital-patolojinin-rutin-pratikte-kullanimi.pdf)  
+
+
+### USCAP 2023  
+
+**Who is More Successful in Detecting Cervical High-grade Squamous Intraepithelial Lesions in Atrophic Background? Pathologists or Artificial Intelligence?**    
+
+[Abstract](./projects/USCAP2023/atrophy-HSIL-smear-ai.png)  
+
+[Poster](./projects/USCAP2023/atrophy-HSIL-smear-ai.pdf)  
+
+Reference: Laboratory Investigation VOLUME 103, ISSUE 3, SUPPLEMENT, S1286, Abstract No: 1235, 100094, MARCH 2023 INFORMATICS DOI:<https://doi.org/10.1016/j.labinv.2023.100094> <https://li.uscap.org/article/S0023-6837(23)00037-5/fulltext>   
+
+
+
+- **Artificial Intelligence Based Improvement of Pulmonary Frozen Section WSI’s, a Pilot Study**  
+
+[Abstract](./projects/USCAP2023/frozen-lung-ai.png)  
+
+[Poster](./projects/USCAP2023/frozen-lung-ai.pdf)  
+
+Reference: Laboratory Investigation VOLUME 103, ISSUE 3, SUPPLEMENT, S1675-1676, Abstract No:1606, 100101, MARCH 2023 PULMONARY, MEDIASTINAL, PLEURAL, AND PERITONEAL PATHOLOGY DOI:<https://doi.org/10.1016/j.labinv.2023.100101> <https://li.uscap.org/article/S0023-6837(23)00044-2/fulltext>  
 
 
 

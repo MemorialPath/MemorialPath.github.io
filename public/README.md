@@ -78,9 +78,9 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 20-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 22-03-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 18-03-2023 tarihleri arasında:
+- 14-12-2020 ile 20-03-2023 tarihleri arasında:
 
   - Toplam 134692 vaka raporlanmıştır.
 
@@ -115,11 +115,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Karaciğer Tümörleri: Hepatoselüler Karsinom
+Hamartom: Schwann Cell Hamartoma in a Colon Polyp
 
-<iframe src='https://images.patolojiatlasi.com/hepatocellularcarcinoma/HCC/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/schwanncellhamartoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/karaciger.html#hepatoselüler-karsinom>
+<https://www.patolojiatlasi.com/hamartom.html#schwann-cell-hamartoma-in-a-colon-polyp>
 
 
 ---

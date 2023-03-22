@@ -24,7 +24,7 @@ Kadrosu](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patol
 ### Memorial Patoloji Patologlar
 
 [![Memorial Patoloji
-Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patoloji-Patologlar.jpeg)
+Patologlar](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji-Patologlar.JPG)
 
 - [Ilknur
   Turkmen](https://www.memorial.com.tr/en/doctors/ilknur-turkmen-1975)

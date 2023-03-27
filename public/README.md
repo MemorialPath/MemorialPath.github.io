@@ -115,11 +115,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Hamartom: Schwann Cell Hamartoma in a Colon Polyp
+Amiloidoz (Amiloid Birikimi): Congo Red
 
-<iframe src='https://images.patolojiatlasi.com/schwanncellhamartoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/congored/congored.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hamartom.html#schwann-cell-hamartoma-in-a-colon-polyp>
+<https://www.patolojiatlasi.com/amiloid.html#congo-red>
 
 
 ---

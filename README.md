@@ -78,7 +78,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 22-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 27-03-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 20-03-2023 tarihleri arasında:
 
@@ -115,11 +115,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.jpeg)](./images/Memorial-Patol
 ---
 
 
-Amiloidoz (Amiloid Birikimi): Congo Red
+Hipofiz Adenomu: 
 
-<iframe src='https://images.patolojiatlasi.com/congored/congored.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/pituitary-adenoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/amiloid.html#congo-red>
+<https://www.patolojiatlasi.com/hipofiz.html>
 
 
 ---

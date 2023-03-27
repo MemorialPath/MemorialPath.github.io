@@ -9,11 +9,11 @@
 ---
 
 
-Amiloidoz (Amiloid Birikimi): Congo Red
+Hipofiz Adenomu: 
 
-<iframe src='https://images.patolojiatlasi.com/congored/congored.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/pituitary-adenoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/amiloid.html#congo-red>
+<https://www.patolojiatlasi.com/hipofiz.html>
 
 
 ---

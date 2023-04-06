@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 
 - [Hastane Sayfası](https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi)
 
-- [Memorial Patoloji Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
+- [Memorial Patoloji Patologlar ve Konsültan Hekimler](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
 
 ### Memorial Patoloji Kalite Politikası{#memorial-patoloji-kalite-politikasi}
@@ -31,17 +31,17 @@ knitr::opts_chunk$set(
 [![Memorial Patoloji Kalite Politikası](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)
 
 
-### Memorial Patoloji Hekim Kadrosu{#memorial-patoloji-hekim-kadrosu}
+### Memorial Patoloji Hekim ve Konsültan  Kadrosu{#memorial-patoloji-hekim-kadrosu}
 
-[![Memorial Patoloji Hekim Kadrosu](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
-
-
+[![Memorial Patoloji Hekim ve Konsültan Kadrosu](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
 
 
-### Memorial Patoloji Patologlar{#memorial-patoloji-patologlar}
 
 
-[![Memorial Patoloji Patologlar](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji-Patologlar.JPG)
+### Memorial Patoloji Patologlar ve Konsültan Hekimler{#memorial-patoloji-patologlar}
+
+
+[![Memorial Patoloji Patologlar ve Konsültan Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji-Patologlar.JPG)
 
 
 -   [Ilknur Turkmen](https://www.memorial.com.tr/en/doctors/ilknur-turkmen-1975)

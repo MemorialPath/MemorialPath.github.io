@@ -16,15 +16,14 @@ Memorial Patoloji Laboratuvarı
 [![Memorial Patoloji Kalite
 Politikası](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)
 
-### Memorial Patoloji Hekim Kadrosu
+### Memorial Patoloji Hekim ve Konsültan Kadrosu
 
-[![Memorial Patoloji Hekim
-Kadrosu](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
+[![Memorial Patoloji Hekim ve Konsültan Kadrosu](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
 
-### Memorial Patoloji Patologlar
+### Memorial Patoloji Patologlar ve Konsültan Hekimler
 
 [![Memorial Patoloji
-Patologlar](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji-Patologlar.JPG)
+Patologlar ve Konsültan Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji-Patologlar.JPG)
 
 - [Ilknur
   Turkmen](https://www.memorial.com.tr/en/doctors/ilknur-turkmen-1975)
@@ -78,7 +77,7 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patolo
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 22-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 04-04-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 20-03-2023 tarihleri arasında:
 
@@ -115,11 +114,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patolo
 ---
 
 
-Amiloidoz (Amiloid Birikimi): Congo Red
+Benign Tümörler: Adenomlar
 
-<iframe src='https://images.patolojiatlasi.com/congored/congored.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/amiloid.html#congo-red>
+<https://www.patolojiatlasi.com/benign.html#adenomlar>
 
 
 ---

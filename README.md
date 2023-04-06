@@ -8,23 +8,23 @@ Memorial Patoloji Laboratuvarı
 - [Hastane
   Sayfası](https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi)
 
-- [Memorial Patoloji
-  Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
+- [Memorial Patoloji Patologlar ve Konsültan
+  Hekimler](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
 ### Memorial Patoloji Kalite Politikası
 
 [![Memorial Patoloji Kalite
 Politikası](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)
 
-### Memorial Patoloji Hekim Kadrosu
+### Memorial Patoloji Hekim ve Konsültan Kadrosu
 
-[![Memorial Patoloji Hekim
+[![Memorial Patoloji Hekim ve Konsültan
 Kadrosu](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
 
-### Memorial Patoloji Patologlar
+### Memorial Patoloji Patologlar ve Konsültan Hekimler
 
-[![Memorial Patoloji
-Patologlar](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji-Patologlar.JPG)
+[![Memorial Patoloji Patologlar ve Konsültan
+Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji-Patologlar.JPG)
 
 - [Ilknur
   Turkmen](https://www.memorial.com.tr/en/doctors/ilknur-turkmen-1975)
@@ -78,11 +78,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patolo
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 27-03-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 06-04-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 20-03-2023 tarihleri arasında:
+- 14-12-2020 ile 04-04-2023 tarihleri arasında:
 
-  - Toplam 134692 vaka raporlanmıştır.
+  - Toplam 137498 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -95,6 +95,9 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patolo
 -   Laboratuvar altyapısında dijital patoloji için Sectra ve Aperio kullanılmaktadır.
 
 ------------------------------------------------------------------------
+
+
+
 
 
 
@@ -112,11 +115,11 @@ Patologlar](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patolo
 ---
 
 
-Hipofiz Adenomu: 
+Abdominal mezotelyoma: 
 
-<iframe src='https://images.patolojiatlasi.com/pituitary-adenoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/hipofiz.html>
+<https://www.patolojiatlasi.com/mezotel.html>
 
 
 ---

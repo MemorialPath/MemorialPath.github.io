@@ -8,8 +8,8 @@ Memorial Patoloji Laboratuvarı
 - [Hastane
   Sayfası](https://www.memorial.com.tr/tibbi-birimlerimiz/patoloji-merkezi)
 
-- [Memorial Patoloji
-  Patologlar](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
+- [Memorial Patoloji Patologlar ve Konsültan
+  Hekimler](https://patoloji.memorial.com.tr/Home/Index#hekimlerimiz)
 
 ### Memorial Patoloji Kalite Politikası
 
@@ -18,12 +18,13 @@ Politikası](./images/Memorial-Patoloji-Kalite-Politikasi.JPG)](./images/Memoria
 
 ### Memorial Patoloji Hekim ve Konsültan Kadrosu
 
-[![Memorial Patoloji Hekim ve Konsültan Kadrosu](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
+[![Memorial Patoloji Hekim ve Konsültan
+Kadrosu](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)](./images/Memorial-Patoloji-Hekim-Kadrosu.jpeg)
 
 ### Memorial Patoloji Patologlar ve Konsültan Hekimler
 
-[![Memorial Patoloji
-Patologlar ve Konsültan Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji-Patologlar.JPG)
+[![Memorial Patoloji Patologlar ve Konsültan
+Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji-Patologlar.JPG)
 
 - [Ilknur
   Turkmen](https://www.memorial.com.tr/en/doctors/ilknur-turkmen-1975)
@@ -77,11 +78,11 @@ Patologlar ve Konsültan Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](.
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 04-04-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 06-04-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 20-03-2023 tarihleri arasında:
+- 14-12-2020 ile 04-04-2023 tarihleri arasında:
 
-  - Toplam 134692 vaka raporlanmıştır.
+  - Toplam 137498 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -114,11 +115,11 @@ Patologlar ve Konsültan Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](.
 ---
 
 
-Benign Tümörler: Adenomlar
+Abdominal mezotelyoma: 
 
-<iframe src='https://images.patolojiatlasi.com/tubularadenoma-flat/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/benign.html#adenomlar>
+<https://www.patolojiatlasi.com/mezotel.html>
 
 
 ---

@@ -9,11 +9,11 @@
 ---
 
 
-Karaciğer Tümörleri: Hepatoselüler Karsinom
+Viruslar: Herpes Simplex Virus (HSV)
 
-<iframe src='https://images.patolojiatlasi.com/hepatocellularcarcinoma/HCC/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/karaciger.html#hepatoselüler-karsinom>
+<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
 
 
 ---

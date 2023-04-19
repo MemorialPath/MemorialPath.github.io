@@ -78,7 +78,7 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 06-04-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 08-04-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 04-04-2023 tarihleri arasında:
 
@@ -115,11 +115,11 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 ---
 
 
-Abdominal mezotelyoma: 
+Karaciğer Tümörleri: Hepatoselüler Karsinom
 
-<iframe src='https://images.patolojiatlasi.com/abdominal-mesothelioma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/hepatocellularcarcinoma/HCC/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/mezotel.html>
+<https://www.patolojiatlasi.com/karaciger.html#hepatoselüler-karsinom>
 
 
 ---

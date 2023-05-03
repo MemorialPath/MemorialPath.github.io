@@ -78,7 +78,7 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 19-04-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 03-05-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 04-04-2023 tarihleri arasında:
 
@@ -115,11 +115,11 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 ---
 
 
-Viruslar: Herpes Simplex Virus (HSV)
+Tamir Mekanizmaları: Keloid - Skar
 
-<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/keloid-scar/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
+<https://www.patolojiatlasi.com/tamir.html#keloid---skar>
 
 
 ---

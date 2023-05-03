@@ -80,9 +80,9 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 - Bu istatistikler en son 03-05-2023 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 04-04-2023 tarihleri arasında:
+- 14-12-2020 ile 29-04-2023 tarihleri arasında:
 
-  - Toplam 137498 vaka raporlanmıştır.
+  - Toplam 141989 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -115,11 +115,11 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 ---
 
 
-Tamir Mekanizmaları: Keloid - Skar
+Miksoid Liposarkom: 
 
-<iframe src='https://images.patolojiatlasi.com/keloid-scar/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/myxoidliposarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/tamir.html#keloid---skar>
+<https://www.patolojiatlasi.com/adipoz.html>
 
 
 ---

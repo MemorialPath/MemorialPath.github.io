@@ -78,7 +78,7 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 03-05-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 24-05-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 29-04-2023 tarihleri arasında:
 
@@ -115,11 +115,11 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 ---
 
 
-Miksoid Liposarkom: 
+Endometriozis: 
 
-<iframe src='https://images.patolojiatlasi.com/myxoidliposarcoma/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/endometriosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/adipoz.html>
+<https://www.patolojiatlasi.com/endometriosis.html>
 
 
 ---

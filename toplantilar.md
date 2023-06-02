@@ -64,7 +64,34 @@ Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco, Patoloji Bölü
 
 
 
+<br>
+
+
+
 ---
+
+
+
+### Dijital Patoloji Webinar Serisi - 1
+
+
+Memorial Sağlık Grubu ve Türk Patoloji Derneği tarafından düzenlenen “Dijital Patoloji Webinar Serisi-1”  Prof. Dr. İlknur Türkmen’in moderatörlüğünde 31 Mayıs 2023 tarihinde düzenlenmiştir.  
+
+Patolojide Dijital Transformasyon konulu sempozyum Memorial Sağlık Grubu Patoloji Departmanı Prof. Dr. İlknur Türkmen, Acıbadem Sağlık Grubu Patoloji Departmanı Prof. Dr. Ümit İnce, Koç Üniversitesi Patoloji Departmanı Prof. Dr. Volkan Adsay başkanlığında düzenlenmiştir.  
+
+Paige Medical Vice President Dr. Juan Retamero’nun konuşmacı olduğu webinar 237 kişinin katılımı ile gerçekleştirilmiştir.  
+
+![](./images/dijital-patoloji-webinar-1a.jpg)
+
+![](./images/dijital-patoloji-webinar-1b.jpg)
+
+![](./images/dijital-patoloji-webinar-1c.jpg)
+
+
+{{< video https://www.youtube.com/embed/sHIQI-w87Tc >}}
+
+
+
 
 
 

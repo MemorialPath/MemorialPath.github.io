@@ -1,11 +1,5 @@
 
 
-
-
-
-## Patoloji Atlasi
-
-
   -   <https://www.patolojiatlasi.com/>
   -   <https://www.patolojiatlasi.com/EN/>
   -   <https://www.patolojinotlari.com/>
@@ -15,11 +9,11 @@
 ---
 
 
-Viruslar: Herpes Simplex Virus (HSV)
+Endometriozis: 
 
-<iframe src='https://images.patolojiatlasi.com/HSV/herpesesophagitis/viewer_z0.html' style='height:400px;width:100%;' data-external='1'></iframe>
+<iframe src='https://images.patolojiatlasi.com/endometriosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
 
-<https://www.patolojiatlasi.com/virus.html#herpes-simplex-virus-hsv>
+<https://www.patolojiatlasi.com/endometriosis.html>
 
 
 ---

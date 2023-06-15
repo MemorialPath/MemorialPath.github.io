@@ -64,3 +64,7 @@ Reference: Laboratory Investigation VOLUME 103, ISSUE 3, SUPPLEMENT, S1675-1676,
 
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7075156255098462208" allowfullscreen="" title="Embedded post" width="504" height="821" frameborder="0"></iframe>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pathologists from <a href="https://twitter.com/MemorialSaglik?ref_src=twsrc%5Etfw">@memorialsaglik</a> presented an exciting new results on their evaluation of Paige Prostate at ECDP! Overall, they found that &quot;AI sensitivity with pathologist specificity will improve patient care.&quot; <a href="https://twitter.com/hashtag/memorialsaglik?src=hash&amp;ref_src=twsrc%5Etfw">#memorialsaglik</a> #​memorialpathology <a href="https://t.co/K9KmBHZw9S">pic.twitter.com/K9KmBHZw9S</a></p>&mdash; Paige (@paige_ai) <a href="https://twitter.com/paige_ai/status/1669390646598041610?ref_src=twsrc%5Etfw">June 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+

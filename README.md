@@ -340,7 +340,7 @@ Toplantıya kaydolmak için nlmiceonline.com websitesi ziyaret edebilirsiniz.
 
 
 
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7082802818146869248" allowfullscreen="" title="Embedded post" width="504" height="593" frameborder="0"></iframe>
 
 
 

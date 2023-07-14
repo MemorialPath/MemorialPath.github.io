@@ -78,7 +78,7 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 19-06-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 07-07-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 29-04-2023 tarihleri arasında:
 
@@ -321,7 +321,6 @@ Paige Medical Vice President Dr. Juan Retamero’nun konuşmacı olduğu webinar
 
 
 
-
 ### Dijital Patoloji Webinar Serisi - 2
 
 Türk Patoloji Derneği Dijital Patoloji Webinar serisinin ikinci toplantısının konusu DİJİTAL PATOLOJİNİN VALİDASYONU.
@@ -338,9 +337,10 @@ Toplantıya kaydolmak için nlmiceonline.com websitesi ziyaret edebilirsiniz.
 
 
 
-
-
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7082802818146869248" allowfullscreen="" title="Embedded post" width="504" height="593" frameborder="0"></iframe>
+
+
+
 
 
 

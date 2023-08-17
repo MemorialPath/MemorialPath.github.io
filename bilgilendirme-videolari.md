@@ -122,4 +122,15 @@ Patoloji raporu pek çok hastanın hayatını değiştirebilir ve patoloji örne
 ---
 
 
+[PATOLOJİ UZMANLARININ TEMEL GÖREVLERİ NELERDİR?...TÜRKAN ATASEVER REZANKO ANLATTI...](https://www.youtube.com/watch?v=ZqfsA6BsXLc&ab_channel=BusinessChannelTV)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZqfsA6BsXLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+---
+
+
+
+
 

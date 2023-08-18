@@ -107,7 +107,7 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 
   -   <https://www.patolojiatlasi.com/>
-  -   <https://www.patolojiatlasi.com/EN/>
+  -   <https://www.histopathologyatlas.com/>
   -   <https://www.patolojinotlari.com/>
 
 

@@ -88,6 +88,17 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 
 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1193.854574949442!2d28.972771635403504!3d41.06189668273115!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x82ecdc4a82d8c519%3A0x5b15447cefe51a4e!2sMemorial%20Patoloji%20Laboratuvar%C4%B1!5e0!3m2!1sen!2str!4v1692343007764!5m2!1sen!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
 ## Dijital Patoloji {#dijital-patoloji}
 
 -   <https://patoloji.memorial.com.tr/Home/DijitalPatoloji>
@@ -107,7 +118,7 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 
   -   <https://www.patolojiatlasi.com/>
-  -   <https://www.patolojiatlasi.com/EN/>
+  -   <https://www.histopathologyatlas.com/>
   -   <https://www.patolojinotlari.com/>
 
 

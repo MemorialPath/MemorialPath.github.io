@@ -357,6 +357,52 @@ Toplantıya kaydolmak için nlmiceonline.com websitesi ziyaret edebilirsiniz.
 
 
 
+
+
+
+
+
+
+---
+
+
+
+### On the Road to ECP 2023
+
+**6 September 2023 Wednesday 17.00**
+
+We are meeting [Dr. Andrey Bychkov](https://www.linkedin.com/in/andrey-bychkov-3570671a0/) in İstanbul just before ECP-Dublin.
+
+Dr. Bychkov is the head of the Digital Pathology Department at Kameda Medical Centre/Japan, and also a member of the WHO 2022 Thyroid/Hematopathology Classification Team.
+
+The meeting will be a part of TPD Digital Pathology Meeting Series and will be held at **Memorial Bahçelievler Hospital**.
+
+We are looking forward to welcome pathologists interested in thyroid pathology, as well as physicians, engineers, and industry representatives who focus on digital pathology.
+
+
+
+![](./images/On-the-Road-to-ECP-2023.jpg)
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7098774192644329472" height="837" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7098308694362222593" height="564" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
 ## Memorial Patoloji Bilgilendirme Videoları{#bilgilendirme-videolari}
 
 

@@ -78,10 +78,15 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 14-07-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 25-08-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 14-07-2023 tarihleri arasında:
 
   - Toplam 155183 vaka raporlanmıştır.
+
+------------------------------------------------------------------------
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1193.854574949442!2d28.972771635403504!3d41.06189668273115!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x82ecdc4a82d8c519%3A0x5b15447cefe51a4e!2sMemorial%20Patoloji%20Laboratuvar%C4%B1!5e0!3m2!1sen!2str!4v1692343007764!5m2!1sen!2str" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>
 
 ------------------------------------------------------------------------

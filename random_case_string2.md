@@ -1,7 +1,7 @@
 
 
   -   <https://www.patolojiatlasi.com/>
-  -   <https://www.histopathologyatlas.com/>
+  -   <https://www.patolojiatlasi.com/EN/>
   -   <https://www.patolojinotlari.com/>
 
 

@@ -78,7 +78,7 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 14-07-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 25-08-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 14-07-2023 tarihleri arasında:
 
@@ -86,16 +86,10 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 ------------------------------------------------------------------------
 
-
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1193.854574949442!2d28.972771635403504!3d41.06189668273115!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x82ecdc4a82d8c519%3A0x5b15447cefe51a4e!2sMemorial%20Patoloji%20Laboratuvar%C4%B1!5e0!3m2!1sen!2str!4v1692343007764!5m2!1sen!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1193.854574949442!2d28.972771635403504!3d41.06189668273115!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x82ecdc4a82d8c519%3A0x5b15447cefe51a4e!2sMemorial%20Patoloji%20Laboratuvar%C4%B1!5e0!3m2!1sen!2str!4v1692343007764!5m2!1sen!2str" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+</iframe>
 
 ------------------------------------------------------------------------
-
 
 
 
@@ -118,7 +112,7 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 
   -   <https://www.patolojiatlasi.com/>
-  -   <https://www.histopathologyatlas.com/>
+  -   <https://www.patolojiatlasi.com/EN/>
   -   <https://www.patolojinotlari.com/>
 
 
@@ -170,7 +164,8 @@ Endometriozis:
 
 [Abstract](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.md)  
 
-[Poster](./projects/ulusal2022/dijital-patolojinin-rutin-pratikte-kullanimi.pdf)  
+
+[![Poster](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.png)](./projects/ulusal2022/dijital-patolojinin-rutin-pratikte-kullanimi.pdf)  
 
 
 ### USCAP 2023  
@@ -179,17 +174,21 @@ Endometriozis:
 
 [Abstract](./projects/USCAP2023/atrophy-HSIL-smear-ai.png)  
 
-[Poster](./projects/USCAP2023/atrophy-HSIL-smear-ai.pdf)  
+
+[![Poster](./projects/USCAP2023/atrophy-HSIL-smear-ai-poster.png)](./projects/USCAP2023/atrophy-HSIL-smear-ai.pdf)
+
 
 Reference: Laboratory Investigation VOLUME 103, ISSUE 3, SUPPLEMENT, S1286, Abstract No: 1235, 100094, MARCH 2023 INFORMATICS DOI:<https://doi.org/10.1016/j.labinv.2023.100094> <https://li.uscap.org/article/S0023-6837(23)00037-5/fulltext>   
 
 
 
-- **Artificial Intelligence Based Improvement of Pulmonary Frozen Section WSI’s, a Pilot Study**  
+**Artificial Intelligence Based Improvement of Pulmonary Frozen Section WSI’s, a Pilot Study**  
 
 [Abstract](./projects/USCAP2023/frozen-lung-ai.png)  
 
-[Poster](./projects/USCAP2023/frozen-lung-ai.pdf)  
+
+[![Poster](./projects/USCAP2023/frozen-lung-ai-poster.png)](./projects/USCAP2023/frozen-lung-ai.pdf) 
+
 
 Reference: Laboratory Investigation VOLUME 103, ISSUE 3, SUPPLEMENT, S1675-1676, Abstract No:1606, 100101, MARCH 2023 PULMONARY, MEDIASTINAL, PLEURAL, AND PERITONEAL PATHOLOGY DOI:<https://doi.org/10.1016/j.labinv.2023.100101> <https://li.uscap.org/article/S0023-6837(23)00044-2/fulltext>  
 
@@ -356,17 +355,6 @@ Toplantıya kaydolmak için nlmiceonline.com websitesi ziyaret edebilirsiniz.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 
@@ -398,9 +386,6 @@ We are looking forward to welcome pathologists interested in thyroid pathology, 
 
 
 ---
-
-
-
 
 
 
@@ -527,8 +512,6 @@ Patoloji raporu pek çok hastanın hayatını değiştirebilir ve patoloji örne
 ---
 
 
-
-
 [PATOLOJİ UZMANLARININ TEMEL GÖREVLERİ NELERDİR?...TÜRKAN ATASEVER REZANKO ANLATTI...](https://www.youtube.com/watch?v=ZqfsA6BsXLc&ab_channel=BusinessChannelTV)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqfsA6BsXLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -536,6 +519,8 @@ Patoloji raporu pek çok hastanın hayatını değiştirebilir ve patoloji örne
 
 
 ---
+
+
 
 
 

@@ -33,7 +33,8 @@
 
 [Abstract](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.md)  
 
-[Poster](./projects/ulusal2022/dijital-patolojinin-rutin-pratikte-kullanimi.pdf)  
+
+[![Poster](./projects/ulusal2022/dijital-patoloji-bir-yillik-deneyim.png)](./projects/ulusal2022/dijital-patolojinin-rutin-pratikte-kullanimi.pdf)  
 
 
 ### USCAP 2023  
@@ -42,17 +43,21 @@
 
 [Abstract](./projects/USCAP2023/atrophy-HSIL-smear-ai.png)  
 
-[Poster](./projects/USCAP2023/atrophy-HSIL-smear-ai.pdf)  
+
+[![Poster](./projects/USCAP2023/atrophy-HSIL-smear-ai-poster.png)](./projects/USCAP2023/atrophy-HSIL-smear-ai.pdf)
+
 
 Reference: Laboratory Investigation VOLUME 103, ISSUE 3, SUPPLEMENT, S1286, Abstract No: 1235, 100094, MARCH 2023 INFORMATICS DOI:<https://doi.org/10.1016/j.labinv.2023.100094> <https://li.uscap.org/article/S0023-6837(23)00037-5/fulltext>   
 
 
 
-- **Artificial Intelligence Based Improvement of Pulmonary Frozen Section WSI’s, a Pilot Study**  
+**Artificial Intelligence Based Improvement of Pulmonary Frozen Section WSI’s, a Pilot Study**  
 
 [Abstract](./projects/USCAP2023/frozen-lung-ai.png)  
 
-[Poster](./projects/USCAP2023/frozen-lung-ai.pdf)  
+
+[![Poster](./projects/USCAP2023/frozen-lung-ai-poster.png)](./projects/USCAP2023/frozen-lung-ai.pdf) 
+
 
 Reference: Laboratory Investigation VOLUME 103, ISSUE 3, SUPPLEMENT, S1675-1676, Abstract No:1606, 100101, MARCH 2023 PULMONARY, MEDIASTINAL, PLEURAL, AND PERITONEAL PATHOLOGY DOI:<https://doi.org/10.1016/j.labinv.2023.100101> <https://li.uscap.org/article/S0023-6837(23)00044-2/fulltext>  
 

@@ -199,6 +199,17 @@ Reference: Laboratory Investigation VOLUME 103, ISSUE 3, SUPPLEMENT, S1675-1676,
 # ECDP 2023
 
 
+
+[![Abstract](./projects/ECDP2023/Retrospective-Evaluation-of-Artificial-Intelligence-Solution-for-Prostate-Biopsies-1.jpg)](https://www.ecdp2023.org/posters/)
+
+
+[![Abstract](./projects/ECDP2023/Retrospective-Evaluation-of-Artificial-Intelligence-Solution-for-Prostate-Biopsies-2.jpg)](https://www.ecdp2023.org/posters/)
+
+
+[![Poster](./projects/ECDP2023/Retrospective-Evaluation-of-Artificial-Intelligence-Solution-for-Prostate-Biopsies.png)](./projects/ECDP2023/Retrospective-Evaluation-of-Artificial-Intelligence-Solution-for-Prostate-Biopsies.pdf)
+
+
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7075156255098462208" allowfullscreen="" title="Embedded post" width="504" height="821" frameborder="0"></iframe>
 
 

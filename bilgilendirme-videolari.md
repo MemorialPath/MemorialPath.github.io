@@ -131,6 +131,23 @@ Patoloji raporu pek çok hastanın hayatını değiştirebilir ve patoloji örne
 ---
 
 
+[Patolojide yapay zeka algoritmalarının yeri](https://youtube.com/shorts/XeLxww1ynXQ?feature=share)
+
+
+
+---
+
+
+[Molekuler patoloji ve kanserde yeni tedavi yontemleri](https://www.youtube.com/shorts/ZKrsq-_X08A)
+
+
+---
+
+
+[Meme kanseri cerrahisinde patolojinin yeri](https://www.youtube.com/shorts/XeLxww1ynXQ)
+
+
+---
 
 
 

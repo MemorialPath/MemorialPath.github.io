@@ -78,7 +78,7 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 25-08-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 06-09-2023 tarihinde güncellenmiştir.
 
 - 14-12-2020 ile 14-07-2023 tarihleri arasında:
 
@@ -199,7 +199,6 @@ Reference: Laboratory Investigation VOLUME 103, ISSUE 3, SUPPLEMENT, S1675-1676,
 # ECDP 2023
 
 
-
 [![Abstract](./projects/ECDP2023/Retrospective-Evaluation-of-Artificial-Intelligence-Solution-for-Prostate-Biopsies-1.jpg)](https://www.ecdp2023.org/posters/)
 
 
@@ -281,6 +280,7 @@ Prof. Dr. Tarık Tihan, California Üniversitesi, San Francisco, Patoloji Bölü
 
 
 ---
+
 
 
 
@@ -532,6 +532,23 @@ Patoloji raporu pek çok hastanın hayatını değiştirebilir ve patoloji örne
 ---
 
 
+[Patolojide yapay zeka algoritmalarının yeri](https://youtube.com/shorts/XeLxww1ynXQ?feature=share)
+
+
+
+---
+
+
+[Molekuler patoloji ve kanserde yeni tedavi yontemleri](https://www.youtube.com/shorts/ZKrsq-_X08A)
+
+
+---
+
+
+[Meme kanseri cerrahisinde patolojinin yeri](https://www.youtube.com/shorts/XeLxww1ynXQ)
+
+
+---
 
 
 

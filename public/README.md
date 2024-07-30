@@ -78,11 +78,11 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 
 ## Laboratuvara ait bazı istatistikler
 
-- Bu istatistikler en son 19-09-2023 tarihinde güncellenmiştir.
+- Bu istatistikler en son 22-03-2024 tarihinde güncellenmiştir.
 
-- 14-12-2020 ile 09-09-2023 tarihleri arasında:
+- 14-12-2020 ile 20-10-2023 tarihleri arasında:
 
-  - Toplam 165909 vaka raporlanmıştır.
+  - Toplam 173769 vaka raporlanmıştır.
 
 ------------------------------------------------------------------------
 
@@ -100,6 +100,35 @@ Hekimler](./images/Memorial-Patoloji-Patologlar.JPG)](./images/Memorial-Patoloji
 -   Laboratuvar altyapısında dijital patoloji için Sectra ve Aperio kullanılmaktadır.
 
 ------------------------------------------------------------------------
+
+
+
+
+
+
+## Patoloji Atlasi{#patoloji-atlasi}
+
+
+
+
+  -   <https://www.patolojiatlasi.com/>
+  -   <https://www.patolojiatlasi.com/EN/>
+  -   <https://www.patolojinotlari.com/>
+
+
+
+---
+
+
+Endometriozis: 
+
+<iframe src='https://images.patolojiatlasi.com/endometriosis/HE.html' style='height:400px;width:100%;' data-external='1'></iframe>
+
+<https://www.patolojiatlasi.com/endometriosis.html>
+
+
+---
+
 
 
 
